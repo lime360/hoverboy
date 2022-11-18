@@ -1,5 +1,0 @@
-ok basically use arrow keys to move, space to jump
-
-you can also press r key to use hoverboard (hoverboy) or jetpack (jetboy)
-
-~lime360

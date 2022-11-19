@@ -8,4 +8,4 @@ Dr. Physic's plan, who is trying to earn money by nuking the entire Mother Natur
 lime360 - Code
 
 ## Software used
-Godot - The game itself
+Clickteam Fusion 2.5 - The game itself

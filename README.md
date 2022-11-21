@@ -9,3 +9,5 @@ lime360 - Code
 
 ## Software used
 Clickteam Fusion 2.5 - The game itself
+Aseprite - Sprites
+RAD_Noise - Sound effects

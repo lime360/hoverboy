@@ -6,6 +6,6 @@ Dr. Physic's plan, who is trying to earn money by nuking the entire Mother Natur
 lime360 - Code
 
 ## Software used
-Clickteam Fusion 2.5 - The game itself
-Aseprite - Sprites
-RAD_Noise - Sound effects
+- Clickteam Fusion 2.5 - The game itself
+- Aseprite - Sprites
+- RAD_Noise - Sound effects
